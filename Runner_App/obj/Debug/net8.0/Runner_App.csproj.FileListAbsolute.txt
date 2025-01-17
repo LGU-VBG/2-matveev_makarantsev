@@ -1,0 +1,14 @@
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\Runner_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\Runner_App.AssemblyInfoInputs.cache
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\Runner_App.AssemblyInfo.cs
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\Runner_App.csproj.CoreCompileInputs.cache
+C:\MakMat\Runner_App\Runner_App\bin\Debug\net8.0\Runner_App.exe
+C:\MakMat\Runner_App\Runner_App\bin\Debug\net8.0\Runner_App.deps.json
+C:\MakMat\Runner_App\Runner_App\bin\Debug\net8.0\Runner_App.runtimeconfig.json
+C:\MakMat\Runner_App\Runner_App\bin\Debug\net8.0\Runner_App.dll
+C:\MakMat\Runner_App\Runner_App\bin\Debug\net8.0\Runner_App.pdb
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\Runner_App.dll
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\refint\Runner_App.dll
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\Runner_App.pdb
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\Runner_App.genruntimeconfig.cache
+C:\MakMat\Runner_App\Runner_App\obj\Debug\net8.0\ref\Runner_App.dll
